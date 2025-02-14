@@ -4,14 +4,14 @@
 - 💼 Software Developer
 - 🌱 Currently learning and exploring new technologies
 - 💬 Ask me about anything related to web development
-- 📫 How to reach me: [tkhoa2dev@example.com](mailto:tkhoa2dev@example.com)
+- 📫 How to reach me: [khoa300504@gmail.com](mailto:khoa300504@example.com)
 
 ## 🛠 Tech Stack:
-- 💻 **Languages:** JavaScript, TypeScript, Python, Java
-- 🌐 **Frontend:** React, Vue.js, HTML, CSS, SASS
-- 🛠 **Backend:** Node.js, Express.js, Django, Spring Boot
+- 💻 **Languages:** JavaScript, TypeScript
+- 🌐 **Frontend:** React, HTML, CSS, MaterialUi, ShadcnUI
+- 🛠 **Backend:** Node.js, Express.js
 - 🗄 **Databases:** MySQL, PostgreSQL, MongoDB
-- ⚙️ **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
+- ⚙️ **DevOps:** Docker, Kubernetes, GitHub Actions
 
 ## 📈 GitHub Stats:
 ![TKhoa2Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKhoa2Dev&show_icons=true&theme=radical)
