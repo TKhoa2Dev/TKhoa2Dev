@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Xin chào, tôi là [Your Name]
+# 👋 Xin chào, tôi là KHOA
 
 ### 🚀 AI Enthusiast • Developer • Tech Experimenter
 
